@@ -1,14 +1,18 @@
-.businessName {
+.businessPageContainer {
     background-color: black;
     color: white;
     height: 1000px;
     text-align: center;
-    padding-top: 35px;
 }
 
 .storeInfoLink {
     padding-top: 35px;
-    padding-left: 700px;
+    padding-left: 650px;
     color: white;
     text-decoration: none;
+}
+
+.businessName {
+    color: white;
+    padding-top: 100px;
 }

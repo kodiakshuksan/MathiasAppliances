@@ -25,7 +25,7 @@ shows the User Mathias Appliances location.
 
 ## Installation-
 
-# [Use Weather Dashboard](https://kodiakshuksan.github.io/Weather-Dashboard/)
+# [Use and View Mathias Appliances Website](https://kodiakshuksan.github.io/Weather-Dashboard/)
 
 ## Usage-
 
@@ -41,6 +41,9 @@ For this project I used Visual Studio Code, HTML, CSS, Javascript, NodeJS, React
 
 [w3 schools](https://w3schools.com)
 [Unsplash](https://unsplash.com)
+Landing Page Photo by <a href="https://unsplash.com/@dahlhouse?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christa Grover</a> on <a href="https://unsplash.com/s/photos/kitchen-showrooms?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@wx1993?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Raychan</a> on <a href="https://unsplash.com/s/photos/appliance?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
 ## License-
 
