@@ -1,6 +1,6 @@
 import React from 'react';
 import "./storeInfo.css";
-import storeInfoPic from "../assets/storeInfoPic.jpg";
+import storeInfoPic from "../../images/storeInfoPic.jpg";
 
 const StoreInfo = () => {
     return (
@@ -9,7 +9,7 @@ const StoreInfo = () => {
                 <a href="/LandingPage" alt="">Home</a>
             </nav>
             <div className="info">
-            <img src={storeInfoPic} alt="" />
+            <img className="storeInfoPic" src={storeInfoPic} alt="" />
                 <div>Location</div>
                     <div>Hours: By Appointment</div>
                         <div>Phone Number:</div>
