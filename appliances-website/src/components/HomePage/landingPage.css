@@ -11,9 +11,27 @@
     text-decoration: none;
 }
 
+.navItems {
+    color: white;
+    padding-left: 200px;
+}
+
+
 .businessName {
     color: white;
     padding-top: 100px;
 }
 
 
+.mainPic {
+    height: 649px;
+}
+
+a:link {
+    color: white;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: white;
+  }
