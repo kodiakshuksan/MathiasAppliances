@@ -2,4 +2,13 @@
     background-color: black;
     color: white;
     height: 1000px;
+    text-align: center;
+    padding-top: 35px;
+}
+
+.storeInfoLink {
+    padding-top: 35px;
+    padding-left: 700px;
+    color: white;
+    text-decoration: none;
 }

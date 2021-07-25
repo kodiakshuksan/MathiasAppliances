@@ -4,7 +4,14 @@ import "./landingPage.css";
 const LandingPage = () => {
     return (
         <div className="businessName">
-            Mathias Appliances
+            <nav className="storeInfoLink">
+                    <a href="/storeInfo" alt="">Store Information</a>
+            </nav>
+
+            <div>
+            <h1>Mathias Appliances</h1>
+           
+            </div>
         </div>
     )
 }
