@@ -8,7 +8,7 @@ const LandingPage = () => {
               <nav className="navItems">
               <a href="/storeInfo" alt="">Store Info</a>
               </nav>
-        Mathias Appliances
+        <p className="businessName">Mathias Appliances</p>
       </div>
     );
   }

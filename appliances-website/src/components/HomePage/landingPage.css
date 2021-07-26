@@ -1,37 +1,48 @@
-.businessPageContainer {
-    background-color: black;
-    color: white;
-    text-align: center;
-}
 
-.storeInfoLink {
-    padding-top: 35px;
-    padding-left: 650px;
-    color: white;
-    text-decoration: none;
-}
+
+
 
 .navItems {
-    color: white;
-    padding-left: 200px;
+    color: #5D4037;
+
+    font-size: 14px;
+    font-weight: 100;
 }
 
 
 .businessName {
-    color: white;
-    padding-top: 100px;
+    text-align: center;
+    color: #4E342E;
+    padding-top: 90px;
+    font-size: 90px;
+    font-weight: 900;
+    font-family: serif;
 }
 
 
 .mainPic {
-    height: 649px;
+
+    height: 1300px;
+ 
+
 }
 
 a:link {
-    color: white;
-  }
-  
-  /* visited link */
-  a:visited {
-    color: white;
-  }
+    color: #4E342E;
+    font-size: 25px;
+    font-weight: 700;
+    padding-left: 1050px;
+    padding-top: 45px;
+}
+
+/* visited link */
+a:visited {
+    color: #4E342E;
+    font-size: 25px;
+    font-weight: 700;
+    padding-left: 1050px;
+    padding-top: 45px;
+}
+            
+
+

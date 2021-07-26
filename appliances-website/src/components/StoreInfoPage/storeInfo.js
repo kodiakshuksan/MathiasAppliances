@@ -1,22 +1,25 @@
 import React from 'react';
 import "./storeInfo.css";
-import storeInfoPic from "../../images/storeInfoPic.jpg";
+import background from "../../images/storeInfoPic.jpg";
 
 const StoreInfo = () => {
     return (
-        <div className="infoContainer">
-            <nav>
-                <a href="/LandingPage" alt="">Home</a>
-            </nav>
-            <div className="info">
-            <img className="storeInfoPic" src={storeInfoPic} alt="" />
-                <div>Location</div>
-                    <div>Hours: By Appointment</div>
-                        <div>Phone Number:</div>
-                            <div>Inventory-(OfferUp Link)</div>         
+    <div className="infoPagePic mainPic" style={{ backgroundImage: `url(${background})` }}>
+    <nav className="navItems">
+    <a href="/landingPage" alt="">Home</a>
+    </nav>
+
+                <div className="location">Location</div>
+                    <div className="hours">Hours: By Appointment</div>
+                        <div className="phoneNumber">Phone Number:</div>
+                            <div className="inventory">Inventory-(OfferUp Link)</div>         
             </div>
-        </div>
-    )
+
+            
+        
+
+    );
 }
+
 
 export default StoreInfo
