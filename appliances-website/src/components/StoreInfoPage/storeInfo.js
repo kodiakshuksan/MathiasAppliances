@@ -22,7 +22,7 @@ const StoreInfo = () => {
         
             </nav>
         
-                        <p className="address">Location: 15413-1ST Ave. Ct. South Blg. G, Tacoma, WA 98444</p>
+                        <p className="address">Location: 15413-1st Ave. Ct. South Blg. G, Tacoma, WA 98444</p>
                             <p className="hours">Showroom Hours: By Appointment</p>
                                 <p className="phoneNumber">Phone Number:1-443-949-2766</p>
                     </div>
