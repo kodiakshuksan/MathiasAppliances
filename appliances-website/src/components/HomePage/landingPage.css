@@ -1,11 +1,7 @@
 .navItems {
-    color: #5D4037;
+    color: #4E342E;
     font-size: 25px;
-    font-weight: 700;
-
-
-
-    color: #5D4037;
+    font-weight: 900;
     padding-left: 1250px;
 }
 
@@ -22,5 +18,8 @@
     height: 720px;
 }
 
+.itemA {
+    font-weight: 700;
+}
 
 

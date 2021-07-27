@@ -15,7 +15,7 @@ const StoreInfo = () => {
                
             <nav className="nav itemA" >
             
-                <Link to="/" style={{ textDecoration: 'none', color: '#4E342E', fontWeight: 'bolder', paddingLeft: '1050px', fontSize: '25px'}} className={location.pathname === "/" ? "nav-link active" : "nav-link"}>Home</Link>
+                <Link to="/" style={{ textDecoration: 'none', color: '#4E342E', fontWeight: 'bolder', paddingLeft: '1080px', fontSize: '25px'}} className={location.pathname === "/" ? "nav-link active" : "nav-link"}>Home</Link>
             
                     <a style={{ textDecoration: 'none', color: '#4E342E', paddingTop: '7px', fontWeight: 'bolder', fontSize: '25px' }} href="https://offerup.com/p/21498274" alt="">Browse Inventory</a>
             
