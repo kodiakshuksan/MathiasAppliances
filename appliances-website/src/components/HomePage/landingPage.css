@@ -1,14 +1,13 @@
-
-
-
-
 .navItems {
     color: #5D4037;
+    font-size: 25px;
+    font-weight: 700;
 
-    font-size: 14px;
-    font-weight: 100;
+
+
+    color: #5D4037;
+    padding-left: 1250px;
 }
-
 
 .businessName {
     text-align: center;
@@ -19,30 +18,9 @@
     font-family: serif;
 }
 
-
-.mainPic {
-
-    height: 1300px;
- 
-
+.businessPageContainer {
+    height: 720px;
 }
 
-a:link {
-    color: #4E342E;
-    font-size: 25px;
-    font-weight: 700;
-    padding-left: 1050px;
-    padding-top: 45px;
-}
-
-/* visited link */
-a:visited {
-    color: #4E342E;
-    font-size: 25px;
-    font-weight: 700;
-    padding-left: 1050px;
-    padding-top: 45px;
-}
-            
 
 
