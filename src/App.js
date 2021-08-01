@@ -9,12 +9,12 @@ function App() {
       <header className="App-header">
       
       <Router>
-      <div>
-        <Route exact path="/" component={LandingPage} />
-        <Route exact path="/LandingPage" component={LandingPage} />
-        <Route exact path="/StoreInfo" component={StoreInfo} />
-      </div>
-    </Router>
+        <div>
+          <Route exact path="/" component={LandingPage} />
+          <Route exact path="/LandingPage" component={LandingPage} />
+          <Route exact path="/StoreInfo" component={StoreInfo} />
+        </div>
+      </Router>
      
         
       </header>
